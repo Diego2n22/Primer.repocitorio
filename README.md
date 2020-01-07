@@ -22,7 +22,3 @@ Un blog increíble el cual aprendi a realizar con el [ curso de Git y Github](ht
 ----
 
 ----
-
-
-
-####  :editormd-logo-5x:
